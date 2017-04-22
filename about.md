@@ -1,5 +1,5 @@
 ---
-title: About
+title: numberDNA
 permalink: "/about/"
 layout: page
 ---

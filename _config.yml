@@ -2,9 +2,6 @@
 title: Number DNA
 timezone: America/New_York
 collections:
-  data-math-remediation:
-    title: 'Data: Math Remediation'
-    output: true
   posts:
     title: Posts
     output: true

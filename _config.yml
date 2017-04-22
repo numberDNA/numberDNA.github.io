@@ -15,7 +15,7 @@ description: 'This web page will convey information and progress reports concern
 
 '
 baseurl: 
-url: 
+url: numberDNA
 markdown: kramdown
 theme: minima
 gems:

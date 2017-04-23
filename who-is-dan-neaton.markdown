@@ -13,7 +13,7 @@ My education history
 1976  University of Michigan Teacher Certification
       Major: Mathematics   Minor: Economisc
 1985  Eastern Michigan MA Mathematics
-
+![Screen Shot 2017-04-16 at 10.19.18 AM-c83445.png](/uploads/Screen%20Shot%202017-04-16%20at%2010.19.18%20AM-c83445.png)
 My work history
 1973-75 General Foods Corporation: Sales Representative
 1976-1986 Ann Arbor Clague Middle School

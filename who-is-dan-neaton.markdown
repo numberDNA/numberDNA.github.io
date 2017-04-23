@@ -25,7 +25,7 @@ My work history
 2000-Present  Washtenaw Community College intermittently as 
               a lecturer. 
     
-> ![DSC_5276 ps.jpg](/uploads/DSC_5276%20ps.jpg)
+![DSC_5276 ps.jpg](/uploads/DSC_5276%20ps.jpg)
 
 
             

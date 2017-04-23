@@ -1,20 +1,21 @@
 ---
 title: Who is Dan Neaton?
 date: 2017-04-22 14:51:00 -04:00
-Field name: _Dan at Whiteboard > ![DSC_5276 ps.jpg](/uploads/DSC_5276%20ps.jpg)
+Field name: 
 ---
 
 Hello! I am Dan.     
 I have taught mathematics at the Middle School, High School, Community College and at the University levels.
 I have explored and experimented with math remediation for the past 40 years. I am developing numberDNA, a self paced
-web based set of 16 math apps that will help individual users to strengthen their foundational skills. 
-My education history
+web based set of 16 math apps that will help individual users to strengthen their foundational skills.
+*  
+**My education history**
 1973  University of Michigan BA Economics
 1976  University of Michigan Teacher Certification
       Major: Mathematics   Minor: Economisc
 1985  Eastern Michigan MA Mathematics
-(/uploads/Screen%20Shot%202017-04-16%20at%2010.19.18%20AM-c83445.png)
-My work history
+* 
+**My work history**
 1973-75 General Foods Corporation: Sales Representative
 1976-1986 Ann Arbor Clague Middle School
 1986-2004 Ann Arbor Huron High School
@@ -25,7 +26,7 @@ My work history
 2000-Present  Washtenaw Community College intermittently as 
               a lecturer. 
     
-![Screen Shot 2017-04-16 at 10.19.18 AM-c83445.png]
+
 
 
             

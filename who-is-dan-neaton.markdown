@@ -24,12 +24,5 @@ web based set of 16 math apps that will help individual users strengthen their f
   * 1995-2012 University of Michigan lecturer for the 
     summer Bridge Programs (7 summers)
   * 2000-Present  Washtenaw Community College 
-    intermittently as a lecturer. 
-    
-
-
-
-            
-
-
-          ![DSC_5276 for linkedin-b57682.jpg](/uploads/DSC_5276%20for%20linkedin-b57682.jpg)
+    intermittently as a lecturer.
+![DSC_5276 for linkedin-b57682.jpg](/uploads/DSC_5276%20for%20linkedin-b57682.jpg)

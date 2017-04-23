@@ -10,7 +10,7 @@ collections:
     output: true
 description: "\n"
 baseurl: 
-url: numberDNA
+url: 
 markdown: kramdown
 theme: minima
 gems:

@@ -4,6 +4,7 @@ date: 2017-04-22 14:51:00 -04:00
 Field name: _Dan at Whiteboard > ![DSC_5276 ps.jpg](/uploads/DSC_5276%20ps.jpg)
 ---
 
+![Screen Shot 2017-04-16 at 10.19.18 AM-c83445.png]
 Hello! I am Dan.     
 I have taught mathematics at the Middle School, High School, Community College and at the University levels.
 I have explored and experimented with math remediation for the past 40 years. I am developing numberDNA, a self paced
@@ -13,7 +14,7 @@ My education history
 1976  University of Michigan Teacher Certification
       Major: Mathematics   Minor: Economisc
 1985  Eastern Michigan MA Mathematics
-![Screen Shot 2017-04-16 at 10.19.18 AM-c83445.png](/uploads/Screen%20Shot%202017-04-16%20at%2010.19.18%20AM-c83445.png)
+(/uploads/Screen%20Shot%202017-04-16%20at%2010.19.18%20AM-c83445.png)
 My work history
 1973-75 General Foods Corporation: Sales Representative
 1976-1986 Ann Arbor Clague Middle School
@@ -25,7 +26,7 @@ My work history
 2000-Present  Washtenaw Community College intermittently as 
               a lecturer. 
     
-![DSC_5276 ps.jpg](/uploads/DSC_5276%20ps.jpg)
+
 
 
             

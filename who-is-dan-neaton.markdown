@@ -12,7 +12,7 @@ web based set of 16 math apps that will help individual users strengthen their f
 **My education history**
 * 1973  University of Michigan BA Economics
 * 1976  University of Michigan Teacher Certification
-      Major: Mathematics   Minor: Economicsc
+      Major: Mathematics   Minor: Economics
 * 1985  Eastern Michigan MA Mathematics
 * 
 **My work history**

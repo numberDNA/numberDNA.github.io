@@ -4,7 +4,6 @@ date: 2017-04-22 14:51:00 -04:00
 Field name: 
 ---
 
-![DSC_5276 ps 2.jpg](/uploads/DSC_5276%20ps%202.jpg)
 Hello! I am Dan.     
 I have taught mathematics at the Middle School, High School, Community College and at the University levels.
 I have explored and experimented with math remediation for the past 40 years. I am developing numberDNA, a self paced

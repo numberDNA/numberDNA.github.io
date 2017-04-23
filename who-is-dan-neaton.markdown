@@ -7,12 +7,14 @@ Field name:
 Hello! I am Dan.     
 I have taught mathematics at the Middle School, High School, Community College and at the University levels.
 I have explored and experimented with math remediation for the past 40 years. I am developing numberDNA, a self paced
-web based set of 16 math apps that will help individual users to strengthen their foundational skills. 
+web based set of 16 math apps that will help individual users to strengthen their foundational skills.
+*  
 **My education history**
 1973  University of Michigan BA Economics
 1976  University of Michigan Teacher Certification
       Major: Mathematics   Minor: Economisc
 1985  Eastern Michigan MA Mathematics
+* 
 **My work history**
 1973-75 General Foods Corporation: Sales Representative
 1976-1986 Ann Arbor Clague Middle School

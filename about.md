@@ -1,7 +1,6 @@
 ---
 title: "Web Page for the \n numberDNA Project"
 permalink: "/about/"
-published: false
 layout: page
 ---
 

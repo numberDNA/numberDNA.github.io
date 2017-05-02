@@ -1,5 +1,5 @@
 ---
-title: "Web Page for the \n numberDNA Project"
+title: numberDNA Project
 permalink: "/about/"
 layout: page
 ---

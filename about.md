@@ -19,7 +19,7 @@ personalized report that acts as your game plan.  It tells you which foundationa
 **Middle schools and High Schools** could use Number DNA as a self-paced remediation package.  The pre-test would diagnose each individual students’ strengths and weaknesses and thereby provide an intervention plan tailored to each student.
 
 Additionally, Number DNA is designed to be used in conjunction with a textbook 
-Foundations For Algebra.  This text contains detailed discussions that start with whole number factors and divisibility then continues through fractions, percent, integers and solving basic equation using positive a numbers, negative numbers and fractions. 
+Foundations For Algebra.  This text contains detailed discussions that start with whole number factors and divisibility then continues through fractions, percent, integers and solving basic equation using positive numbers, negative numbers and fractions. 
 
 
 

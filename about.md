@@ -1,5 +1,5 @@
 ---
-title: numberDNA Project
+title: What is numberDNA?
 permalink: "/about/"
 layout: page
 ---

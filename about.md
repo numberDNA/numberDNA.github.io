@@ -12,6 +12,7 @@ After taking a one hour pretest you receive your
 personalized report that acts as your game plan.  It tells you which foundational skills that you have securely in place and which ones that you need to work on. NumberDNA is designed to be self paced and self directed with tons of support both online or via downloadable hardcopy practice sets. 
 
 **Who could use numberDNA?**
+
 **Business** could use Number DNA (and Algebra DNA?) as training modules to improve the numeracy skills of all workers.  Badging completely through all 16 web based apps (in each) could become a basis for evaluation and/or a modest bonus.  It might also be a springboard to additional training opportunities.
 
 **Colleges and Community Colleges** could use numberDNA and algebraDNA to help millions of students circumvent or replace the 1 to 3 remedial (not for college credit) math classes that they are currently required to take.  Badging could be used to document a students’ mastery of requisite foundational skills.

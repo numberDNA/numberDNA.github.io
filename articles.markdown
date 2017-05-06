@@ -13,7 +13,7 @@ the achievement levels of students in other states in both early reading and mid
 
 2.  **Community College FAQ's** Produced by the Community College Research Center at Columbia University
 
-The FAQ's summarize findings from research covering a wide range of topics from the demographics of who enrolls and  completes community college to why students succeed or fail to earn an associates degree. what I found most interesting was the research and data describing the efficacy of remedial math (not for college credit) courses. For the full text, go to
+The FAQ's summarize findings from research covering a wide range of topics from the demographics of who enrolls and  completes community college to why students succeed or fail to earn an associates degree. what I found most interesting was the research and data describing the efficacy of remedial math (not for college credit) courses. For the full text, go to http://ccrc.tc.columbia.edu/Community-College-FAQs
 
  
 

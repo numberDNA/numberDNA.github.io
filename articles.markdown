@@ -9,7 +9,12 @@ On this page I will post a number of articles that provide data and opinions reg
 
 This data supported report produced by the non-partisan
 Educational Trust-Midwest group, describes how achievement levels of all Michigan student subgroups are falling behind
-the achievement levels of students in other states in both early reading and middle school math.  This report then describes next steps in a plan to make Michigan a top 10 educational state.  For full text, go to https://midwest.edtrust.org/michiganachieves/
+the achievement levels of students in other states in both early reading and middle school math.  This report then describes next steps in a plan to make Michigan a top 10 educational state.  For the full text, go to https://midwest.edtrust.org/michiganachieves/
+
+2.  **Community College FAQ's** Produced by the Community College Research Center at Columbia University
+
+The FAQ's summarize findings from research covering a wide range of topics from the demographics of who enrolls and  completes community college to why students succeed or fail to earn an associates degree. what I found most interesting was the research and data describing the efficacy of remedial math (not for college credit) courses. For the full text, go to
+
  
 
   

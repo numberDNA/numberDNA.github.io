@@ -15,6 +15,16 @@ the achievement levels of students in other states in both early reading and mid
 
 The FAQ's summarize findings from research covering a wide range of topics from the demographics of who enrolls and  completes community college to why students succeed or fail to earn an associates degree. what I found most interesting was the research and data describing the efficacy of remedial math (not for college credit) courses. For the full text, go to http://ccrc.tc.columbia.edu/Community-College-FAQs
 
+3.  **A Preliminary Examination of Remedial Course-Taking Patterns in Michigan’s “Achieving the Dream” Community Colleges** by Peter Riley Bahr 
+The OMG! that this powerpoint presentation describes is the  degree to which community college students struggle in remedial math courses. I believe that this data underscores our need to improve  K-12 and community college curriculums.  To see the entire power point, go to
+http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf
+
+ 
+
+ 
+
+
+
  
 
   

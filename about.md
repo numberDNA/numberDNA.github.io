@@ -1,7 +1,7 @@
 ---
 title: What is numberDNA?
 permalink: "/about/"
-Color: "#000000"
+Color: "#dbe116"
 layout: page
 ---
 

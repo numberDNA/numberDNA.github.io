@@ -5,7 +5,7 @@ Color: "#000000"
 layout: page
 ---
 
-I am looking for funding to develop a product called numberDNA.
+I am looking for funding to develop a product called numberDNAA.
 
 NumberDNA as conceived, is a set of 16 web based math apps that are the 16 blocks of knowledge that need to be securely mastered in order to take on and succeed in Algebra and beyond. NumberDNA is a flexible package of web based math apps.  You can practice numberDNA anywhere; on your phone, iPad or laptop. 
 

@@ -5,7 +5,7 @@ Color: "#000000"
 layout: page
 ---
 
-![numberDNA logo.docx}
+                 ![numberDNA logo.docx}
 
 I am looking for funding to develop a product called numberDNAA.
 

@@ -13,12 +13,12 @@ the achievement levels of students in other states in both early reading and mid
 
 **Community College FAQ's** Produced by the Community College Research Center at Columbia University
 
-The FAQ's summarize findings from research covering a wide range of topics from the demographics of who enrolls and  completes community college to why students succeed or fail to earn an associates degree. What I found most interesting was the research and data describing the degree to which students taking 1, 2 or 3 remedial math (not for college credit) courses fail to complete a college level math class. For the full text, go to [(http://ccrc.tc.columbia.edu/Community-College-FAQs.html)]
+The FAQ's summarize findings from research covering a wide range of topics from the demographics of who enrolls and  completes community college to why students succeed or fail to earn an associates degree. What I found most interesting was the research and data describing the degree to which students taking 1, 2 or 3 remedial math (not for college credit) courses fail to complete a college level math class. For the full text, go to [http://ccrc.tc.columbia.edu/Community-College-FAQs.html]
 
 
 **A Preliminary Examination of Remedial Course-Taking Patterns in Michigan’s “Achieving the Dream” Community Colleges** by Peter Riley Bahr 
 The OMG!! that this powerpoint presentation describes is the  degree to which community college students struggle in remedial math courses. I believe that this data underscores our need to improve  K-12 and community college curriculums.  To see the entire power point, go to
-[(http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf)]
+[http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf]
 
 **Making Skills Everyone’s Business: A Call to Transform Adult Learning in the United States**
 U.S. Department of Education Office of Career, Technical, and Adult Education February 2015
@@ -37,6 +37,6 @@ This report speaks to the need for “upskilling” the literacy and numeracy sk
 Beginning on page 10 and continuing to page 13, this report outlines Strategy 2: **Transform Opportunities for Youth and Adults to Assess, Improve, and Use Foundation Skills.** 
 
 I am confident that once developed **NumberDNA** will provide an easily accessible intervention plan that
-will be an ideal way for workers to upgrade their numeracy skills.  To see the full report, go to [(https://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/making-skills.pdf)]
+will be an ideal way for workers to upgrade their numeracy skills.  To see the full report, go to [https://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/making-skills.pdf]
 
 

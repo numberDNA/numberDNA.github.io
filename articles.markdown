@@ -36,7 +36,7 @@ This report speaks to the need for “upskilling” the literacy and numeracy sk
 
 Beginning on page 10 and continuing to page 13, this report outlines Strategy 2: **Transform Opportunities for Youth and Adults to Assess, Improve, and Use Foundation Skills.** 
 
-I firmly believe that once developed that NumberDNA will provide an easily accessible intervention plan that
+I am confident that once developed **NumberDNA** will provide an easily accessible intervention plan that
 will be an ideal way for workers to upgrade their numeracy skills.  To see the full report, go to [(https://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/making-skills.pdf)]
 
 

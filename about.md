@@ -25,4 +25,3 @@ Additionally, numberDNA is designed to be used in conjunction with a textbook **
 
 This web page will convey information and progress reports concerning the numberDNA project. 
 
-![Screen Shot 2017-04-16 at 10.19.18 AM-7824ae.png](/uploads/Screen%20Shot%202017-04-16%20at%2010.19.18%20AM-7824ae.png)

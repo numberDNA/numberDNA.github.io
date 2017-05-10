@@ -17,4 +17,25 @@ The FAQ's summarize findings from research covering a wide range of topics from 
 
 **A Preliminary Examination of Remedial Course-Taking Patterns in Michigan’s “Achieving the Dream” Community Colleges** by Peter Riley Bahr 
 The OMG!! that this powerpoint presentation describes is the  degree to which community college students struggle in remedial math courses. I believe that this data underscores our need to improve  K-12 and community college curriculums.  To see the entire power point, go to
-[(http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf)](http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf)
+[(http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf)]
+
+**Making Skills Everyone’s Business: A Call to Transform Adult Learning in the United States**
+U.S. Department of Education Office of Career, Technical, and Adult Education February 2015
+
+This report speaks to the need for “upskilling” the literacy and numeracy skills for millions of US workers. 
+  > “This report presents a vision for making adult skill 
+  development—upskilling—more prevalent, efficient, 
+  effective, and convenient. This vision rests on an 
+  understanding that foundation skills—the combination of 
+  literacy, numeracy, and English language as well as 
+  employability skills required for participation in modern 
+  workplaces and contemporary life—are a shared 
+  responsibility of, and value and benefit to the entire 
+  community. page 1
+
+Beginning on page 10 and continuing to page 13, this report outlines Strategy 2: **Transform Opportunities for Youth and Adults to Assess, Improve, and Use Foundation Skills.** 
+
+I firmly believe that once developed that NumberDNA will provide an easily accessible intervention plan that
+will be an ideal way for workers to upgrade their numeracy skills.  To see the full report, go to [(https://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/making-skills.pdf)]
+
+(http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf)

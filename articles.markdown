@@ -19,12 +19,4 @@ The FAQ's summarize findings from research covering a wide range of topics from 
 The OMG!! that this powerpoint presentation describes is the  degree to which community college students struggle in remedial math courses. I believe that this data underscores our need to improve  K-12 and community college curriculums.  To see the entire power point, go to
 [](http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf)
 
- 
-
- 
-
-
-
- 
-
-  
+  ((https://midwest.edtrust.org/michiganachieves/))

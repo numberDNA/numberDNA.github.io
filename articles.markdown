@@ -9,7 +9,7 @@ On this page I will post a number of articles that provide data and opinions reg
 
 This data supported report produced by the non-partisan
 Educational Trust-Midwest group, describes how achievement levels of all Michigan student subgroups are falling behind
-the achievement levels of students in other states in both early reading and middle school math.  This report then describes next steps in a plan to make Michigan a top 10 educational state.  For the full text, go to  [https://midwest.edtrust.org/michiganachieves/](https://midwest.edtrust.org/michiganachieves/)
+the achievement levels of students in other states in both early reading and middle school math.  This report then describes next steps in a plan to make Michigan a top 10 educational state.  For the full text, go to  [https://midwest.edtrust.org/michiganachieves/]
 
 **Community College FAQ's** Produced by the Community College Research Center at Columbia University
 

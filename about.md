@@ -15,7 +15,7 @@ personalized report that acts as your game plan.  It tells you which foundationa
 
 **Who could use numberDNA?**
 
-**Business** could use numberDNA (and algebraDNA?) as training modules to improve the numeracy skills of all workers.  Badging completely through all 16 web based apps (in each) could become a basis for evaluation and/or a modest bonus.  It might also be a springboard to additional training opportunities.
+**Businesses** could use numberDNA (and algebraDNA?) as training modules to improve the numeracy skills of all workers.  Badging completely through all 16 web based apps (in each) could become a basis for evaluation and/or a modest bonus.  It might also be a springboard to additional training opportunities.
 
 **Colleges and Community Colleges** could use numberDNA and algebraDNA to help millions of students circumvent or replace the 1 to 3 remedial (not for college credit) math classes that they are currently required to take.  Badging could be used to document a students’ mastery of requisite foundational skills.
 

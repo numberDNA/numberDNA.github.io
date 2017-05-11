@@ -5,7 +5,7 @@ Color: "#dbe116"
 layout: page
 ---
 
-**This Website is still being edited and developed.**
+**This Website is in the process of being edited and developed.**
                  
 I am looking for funding to develop a product called **numberDNA**.
 

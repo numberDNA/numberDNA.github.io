@@ -7,7 +7,8 @@ By Dan Neaton
 This blog post refers to how **numberDNA**, once developed,
 can be used as an intervention to help adults and K12 students rebuild or build their math numeracy skills. I am looking into a variety of ways of funding the conversion of this vision into a web based package of math apps.
  	     
-             **Here’s a math problem for you**
+            
+            ** Here's a math problem for you.....**
 
 ……  How do you teach a student Algebra if they can’t multiply, work with fractions and don’t understand how to calculate with negative numbers??  
 

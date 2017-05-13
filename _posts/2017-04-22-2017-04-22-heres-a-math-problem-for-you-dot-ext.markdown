@@ -5,7 +5,7 @@ date: 2017-04-22 11:39:00 -04:00
 
 By Dan Neaton
 This blog post refers to how **numberDNA**, once developed,
-can be used as an intervention to help adults and K12 students rebuild or build their math numeracy skills. I am looking into a variety of ways of funding the conversion of this vision into a web based package of math apps.
+can be used as an intervention to help adults and K12 students rebuild or build their math numeracy skills. I am looking into a variety of ways to fund the conversion of this vision into a web based package of math apps.
  	     
             
             ** Here's a math problem for you.....**

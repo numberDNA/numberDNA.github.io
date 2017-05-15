@@ -1,8 +1,8 @@
 ---
 title: What is numberDNA?
-permalink: "/about/"
+permalink: "/index.html"
 Color: "#dbe116"
-layout: page
+layout: home
 ---
 
 **This Website is in the process of being edited and developed.**

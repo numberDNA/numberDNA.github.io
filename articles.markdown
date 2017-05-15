@@ -37,3 +37,7 @@ Beginning on page 10 and continuing to page 13, this report outlines Strategy 2:
 
 I am confident that once developed **NumberDNA** will provide an easily accessible intervention plan that
 will be an ideal way for workers to upgrade their numeracy skills.  To see the full report, go to [https://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/making-skills.pdf](https://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/making-skills.pdf)
+
+5\. **How Much Does It Cost To Make A Big Video Game?** Superannuation 1/15/14 12:45pm 
+Below is an article published online that takes a historical look at the costs to develop many of the most popular video games that have hit the market since Frogger was introduced in 1982. [http://kotaku.com/how-much-does-it-cost-to-make-a-big-video-game-1501413649]
+(http://kotaku.com/how-much-does-it-cost-to-make-a-big-video-game-1501413649)

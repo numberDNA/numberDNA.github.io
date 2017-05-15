@@ -1,6 +1,6 @@
 ---
 title: What is numberDNA?
-permalink: "/about/"
+permalink: "/index.html"
 Color: "#dbe116"
 layout: page
 ---

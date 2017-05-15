@@ -2,7 +2,7 @@
 title: What is numberDNA?
 permalink: "/index.html"
 Color: "#dbe116"
-layout: home
+layout: page
 ---
 
 **This Website is in the process of being edited and developed.**

@@ -46,7 +46,8 @@ Below is an article published online that takes a historical look at the costs t
 
 6\. **Scholastic to Sell (Most) Education Technology Business to Houghton Mifflin Harcourt for $575 Million**  EdSurge News   5/15/2017
 
-This is an article that speaks to the profitability in the Ed Tech market.  Two excerpts;
-> Since its launch in 1999, READ 180 has generated over $1 billion in sales for Scholastic.”  and  “…..revenues from the company’s overall edtech business have flattened recently, to $175 million for the first nine months of this fiscal year.
+This is an article that speaks to the profitability of the Ed Tech market.  Two excerpts;
+> Since its launch in 1999, READ 180 has generated over $1 billion in sales for Scholastic.  and  …..revenues from the company’s overall edtech business have flattened recently, to $175 million for the first nine months of this fiscal year.
+
 Find the entire article at; [https://www.edsurge.com/news/2015-04-24-scholastic-agrees-to-sell-some-education-technology-business-to-houghton-mifflin-harcourt-for-575-million](https://www.edsurge.com/news/2015-04-24-scholastic-agrees-to-sell-some-education-technology-business-to-houghton-mifflin-harcourt-for-575-million) 
 

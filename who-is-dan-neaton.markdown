@@ -11,7 +11,7 @@ web based set of 16 math apps that will help individual users strengthen their f
 
 My e-mail: neatond@gmail.com
 
-(c) 734-904-4884
+Cell Phone: 734-904-4884
   
 **My education history**
 * 1973  University of Michigan BA Economics

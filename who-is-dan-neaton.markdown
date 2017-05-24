@@ -18,7 +18,7 @@ Cell Phone: 734-904-4884
 * 1976  University of Michigan Teacher Certification
       Major: Mathematics   Minor: Economics
 * 1985  Eastern Michigan MA Mathematics
-* 
+ 
 **My work history**
   * 1973-75 General Foods Corporation: Sales Representative
   * 1976-1986 Ann Arbor Clague Middle School

@@ -9,7 +9,7 @@ I have taught mathematics at the Middle School, High School, Community College a
 I have explored and experimented with math remediation for the past 40 years. I am developing numberDNA, a self paced
 web based set of 16 math apps that will help individual users strengthen their foundational skills.
 
-** Contact me at neatond@gmail.com**
+ Contact me at neatond@gmail.com
 *  
 **My education history**
 * 1973  University of Michigan BA Economics

@@ -3,9 +3,9 @@ title: Blog
 date: 2017-05-24 10:52:00 -04:00
 ---
 
-	     **Here’s a math problem for you**
+	      Here’s a math problem for you
 
-……  How do you teach a student Algebra if they can’t multiply, work with fractions and don’t understand how to calculate with negative numbers??  
+……  How do you teach students Algebra if they can’t multiply, work with fractions and don’t understand how to calculate with negative numbers??  
 
 Good luck with that one.  Thousands of teachers throughout the USA are confronted with this task every day of every school year.  Schools (K-12 and colleges) have struggled to solve this problem for decades with little success.
 

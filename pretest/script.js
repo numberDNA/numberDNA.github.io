@@ -722,7 +722,7 @@ function checkAnswers() {
 							if(userAnswers[currentTestName][j][0].includes("%")) {
 								userAnswers[currentTestName][j][0].splice(userAnswers[currentTestName][j][0].indexOf("%"), 1);
 							}
-							if(userAnswers[currentTestName][j][0] == correctAnswers[currentTestName][j][0]) {
+							if(userAnswers[currentTestName][j][0] != correctAnswers[currentTestName][j][0]) {
 								correct = false;
 							}
 							break;
@@ -730,7 +730,7 @@ function checkAnswers() {
 							if(userAnswers[currentTestName][j][0].includes("%")) {
 								userAnswers[currentTestName][j][0].splice(userAnswers[currentTestName][j][0].indexOf("%"), 1);
 							}
-							if(userAnswers[currentTestName][j][0] == correctAnswers[currentTestName][j][0]) {
+							if(userAnswers[currentTestName][j][0] != correctAnswers[currentTestName][j][0]) {
 								correct = false;
 							}
 							break;

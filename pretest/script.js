@@ -719,18 +719,12 @@ function checkAnswers() {
 							}
 							break;
 						case "percents":
-							if(userAnswers[currentTestName][j][0].includes("%")) {
-								userAnswers[currentTestName][j][0].splice(userAnswers[currentTestName][j][0].indexOf("%"), 1);
-							}
-							if(userAnswers[currentTestName][j][0] != correctAnswers[currentTestName][j][0]) {
+							if((userAnswers[currentTestName][j][0] != correctAnswers[currentTestName][j][0]) && (userAnswers[currentTestName][j][0] != (correctAnswers[currentTestName][j][0] + "%"))) {
 								correct = false;
 							}
 							break;
 						case "percentProblems":
-							if(userAnswers[currentTestName][j][0].includes("%")) {
-								userAnswers[currentTestName][j][0].splice(userAnswers[currentTestName][j][0].indexOf("%"), 1);
-							}
-							if(userAnswers[currentTestName][j][0] != correctAnswers[currentTestName][j][0]) {
+							if((userAnswers[currentTestName][j][0] != correctAnswers[currentTestName][j][0]) && (userAnswers[currentTestName][j][0] != (correctAnswers[currentTestName][j][0] + "%"))) {
 								correct = false;
 							}
 							break;

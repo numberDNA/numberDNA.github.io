@@ -384,8 +384,8 @@ var correctAnswers = {
 		[20], [88]
 	],
 	percentProblems: [
-		[50], ["20%"], 
-		["20%"], [150]
+		[50], ["20"], 
+		["20"], [150]
 	]
 };
 var userAnswers = {

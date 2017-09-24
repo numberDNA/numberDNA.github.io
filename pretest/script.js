@@ -605,7 +605,9 @@ function checkAnswers() {
 		for(var j=0; j<correctAnswers[currentTestName].length; ++j) {
 			var correct = true;
 			if(requiresSpecificCheck[currentTestName]) {
-				if(userAnswers[currentTestName][j][0] == null) {
+				if(userAnswers[currentTestName][j] == null) {
+					correct = false;
+				else if(userAnswers[currentTestName][j][0] == null) {
 					correct = false;
 				}
 				else {

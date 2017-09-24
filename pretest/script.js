@@ -607,6 +607,7 @@ function checkAnswers() {
 			if(requiresSpecificCheck[currentTestName]) {
 				if(userAnswers[currentTestName][j] == null) {
 					correct = false;
+				}
 				else if(userAnswers[currentTestName][j][0] == null) {
 					correct = false;
 				}

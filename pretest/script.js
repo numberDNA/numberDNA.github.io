@@ -872,9 +872,9 @@ function setup() {
 	while(!validUsername(lastName)) {
 		lastName = prompt("I'm sorry, but that's not a valid last name. Try again!");
 	}
-	school = prompt("What is your school?");
+	school = prompt("What is your teacher's name?");
 	while(!validUsername(school)) {
-		school = prompt("I'm sorry, but that's not a valid school name. Try again!");
+		school = prompt("I'm sorry, but that's not a valid name. Try again!");
 	}
 	document.getElementById("testSelectionCont").style.display = "inline-block";
 	for(var i=1; i<=4; ++i) {

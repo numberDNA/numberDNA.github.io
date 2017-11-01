@@ -30,4 +30,4 @@ After taking a one-hour pretest, each individual receives a personalized report,
 
 **Middle Schools and High Schools** could use Number DNA as a self-paced remediation package. The pretest would diagnose each individual student’s strengths and weaknesses and thereby provide an intervention plan tailored to each student.
 
-**Teachers **can use Number DNA, as it has also been designed to be used in conjunction with the following textbook: *Foundations for Algebra*. This text contains detailed discussions, starting with whole number factors and divisibility and continuing through fractions, percents, integers, and solving basic equations using positive numbers, negative numbers, and fractions.
+\*\*Teachers \*\*can use Number DNA, as it has also been designed to be used in conjunction with the following textbook: *Foundations for Algebra*. This text contains detailed discussions, starting with whole number factors and divisibility and continuing through fractions, percents, integers, and solving basic equations using positive numbers, negative numbers, and fractions.

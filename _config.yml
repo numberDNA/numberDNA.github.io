@@ -8,11 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: "\n"
 author: Dan Neaton
 email: 
 github_username: 
 twitter_username: 
+description: "\n"
 baseurl: 
 url: 
 markdown: kramdown

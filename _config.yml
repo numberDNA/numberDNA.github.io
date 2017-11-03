@@ -13,6 +13,7 @@ email:
 github_username: 
 twitter_username: 
 description: "\n"
+google_analytics: 
 baseurl: 
 url: 
 markdown: kramdown

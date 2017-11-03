@@ -25,6 +25,6 @@ Number DNA is designed to be self-paced and self-directed, with support both onl
 
 **Middle Schools and High Schools** could use Number DNA as a self-paced remediation package. The pretest would diagnose each individual student’s strengths and weaknesses and thereby provide an intervention plan tailored to each student.
 
-**Teachers **can use Number DNA, as it has also been designed to be used in conjunction with the following textbook: **Foundations For Algebra**. This text contains detailed discussions that start with whole number factors and divisibility and continues through fractions, percents, integers, and solving basic equations using positive numbers, negative numbers, and fractions.
+**Teachers** can use Number DNA, as it has also been designed to be used in conjunction with the following textbook: **Foundations For Algebra**. This text contains detailed discussions that start with whole number factors and divisibility and continues through fractions, percents, integers, and solving basic equations using positive numbers, negative numbers, and fractions.
 
 This web page will contain the latest updates and progress reports concerning the

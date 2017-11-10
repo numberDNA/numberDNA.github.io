@@ -3,8 +3,6 @@ title: Articles
 date: 2017-05-03 11:50:00 -04:00
 ---
 
-**Articles**
-
 On this page, I will post articles that provide evidence explaining why and the
 degree to which students across the nation need to improve their math skills.
 
@@ -49,22 +47,21 @@ project would better prepare users to have greater success in algebra,
 trigonometry, and the science classes needed for success in STEAM related
 fields.
 
-
-5\. Wan, T. (2015, April 24). [Scholastic to Sell (Most) Education Technology Business to Mifflin Harcourt for \$575 Million](https://www.edsurge.com/news/2015-04-24-scholastic-agrees-to-sell-some-education-technology-business-to-houghton-mifflin-harcourt-for-575-million). EdSurge News. Retrieved from https://www.edsurge.com/news/2015-04-24-scholastic-agrees-to-sell-some-education-technology-business-to-houghton-mifflin-harcourt-for-575-million
+5\. Wan, T. (2015, April 24). [Scholastic to Sell (Most) Education Technology Business to Mifflin Harcourt for $575 Million](https://www.edsurge.com/news/2015-04-24-scholastic-agrees-to-sell-some-education-technology-business-to-houghton-mifflin-harcourt-for-575-million). EdSurge News. Retrieved from https://www.edsurge.com/news/2015-04-24-scholastic-agrees-to-sell-some-education-technology-business-to-houghton-mifflin-harcourt-for-575-million
 
 This article speaks to the profitably of the Ed Tech market.
 
-*“Since its launch in 1999, READ 180 has generated over \$1 billion in sales for
+*“Since its launch in 1999, READ 180 has generated over $1 billion in sales for
 Scholastic.”*
 
 *“…revenues from the company’s overall edtech business have flattened recently,
-to \$175 million for the first nine months of this fiscal year.”*
+to $175 million for the first nine months of this fiscal year.”*
 
 Yet, students are not profiting by being better able to succeed in algebra,
 trigonometry and beyond. To me this disconnect is glaringly obvious. Critics
 point to the fact that the first-generation education Learning Management
 Systems (LMS) fall far short of their promise to innovate the delivery of math
-instruction. I’m attaching another article (\#6) that talks about ways to
+instruction. I’m attaching another article (#6) that talks about ways to
 improve that next generation LMS systems.
 
 6\. The N^2^GDLE Vision: The “Next” Next Generation Digital Learning Environment

@@ -14,8 +14,8 @@ twitter_username: "@neatond"
 description: Looking for investors to fund the development of Number DNA, a radically
   different online, user driven, basic math remediation project.
 google_analytics: UA-109219110-1
+url: http://numberdna.org/
 baseurl: 
-url: 
 markdown: kramdown
 theme: minima
 gems:

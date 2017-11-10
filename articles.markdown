@@ -67,7 +67,7 @@ degree to which students across the nation need to improve their math skills.
    math instruction. I’m attaching another article (\#6) that talks about ways
    to improve that next generation LMS systems.
 
-6. The N^2^GDLE Vision: The “Next” Next Generation Digital Learning Environment
+6. The N<sup>2</sup>GDLE Vision: The “Next” Next Generation Digital Learning Environment
 
    Authors: by **[Phillip Long](https://members.educause.edu/phillip-d-long)** and **[Jonathan Mott](https://members.educause.edu/jonathan-d-mott)**
    Published: Monday, July 3, 2017. © 2017 Phillip D. Long and Jon Mott.
@@ -77,8 +77,8 @@ degree to which students across the nation need to improve their math skills.
 
    This article outlines criticisms of many of the Learning Management Systems
    currently on the market and also outlines the elements needed in the “Next”
-   Next Generation Digital Learning Environments (N^2^GDLE). I derived great
+   Next Generation Digital Learning Environments (N<sup>2</sup>GDLE). I derived great
    encouragement for my efforts to develop my project because Number DNA
-   includes most of the elements in the N^2^GDLE shown below.
+   includes most of the elements in the N<sup>2</sup>GDLE shown below.
 
    ![articles-n2gdle-figure1.jpg](/uploads/articles-n2gdle-figure1.jpg)

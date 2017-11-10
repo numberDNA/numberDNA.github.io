@@ -1,6 +1,7 @@
 ---
 title: Blog
 date: 2017-05-24 10:52:00 -04:00
+published: false
 layout: home
 ---
 

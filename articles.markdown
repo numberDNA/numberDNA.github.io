@@ -6,7 +6,7 @@ date: 2017-05-03 11:50:00 -04:00
 On this page, I will post articles that provide evidence explaining why and the
 degree to which students across the nation need to improve their math skills.
 
-1. Arellano, A., Bedi, S., & Gallagher, T. (2016). **[Michigan Achieves! 2016 Michigan State of Education Report](https://midwest.edtrust.org/michiganachieves/)**. The Education Trust—Midwest (ETM). Retrieved from https://midwest.edtrust.org/michiganachieves/
+1. **Arellano, A., Bedi, S., & Gallagher, T. (2016). [Michigan Achieves! 2016 Michigan State of Education Report](https://midwest.edtrust.org/michiganachieves/). The Education Trust—Midwest (ETM).**
 
    This data-supported report produced by the nonpartisan Educational
    Trust-Midwest group describes how achievement levels of all Michigan student
@@ -15,7 +15,7 @@ degree to which students across the nation need to improve their math skills.
    describes the next steps in a plan to make Michigan a top-10 educational
    state.
 
-2. Columbia University. **[Community College FAQs](https://ccrc.tc.columbia.edu/Community-College-FAQs.html)**. Community College Research Center. Retrieved from https://ccrc.tc.columbia.edu/Community-College-FAQs.html
+2. **Columbia University. [Community College FAQs](https://ccrc.tc.columbia.edu/Community-College-FAQs.html). Community College Research Center.**
 
    These FAQs summarize findings from research covering a wide range of topics,
    from the demographics of who enrolls and completes community college to why
@@ -30,14 +30,14 @@ degree to which students across the nation need to improve their math skills.
    reading go on to complete the entire developmental sequence”* (Bailey, Jeong,
    & Cho, 2010).
 
-3. Bahr, P. R. **[A Preliminary Examination of Remedial Course-Taking Patterns in Michigan’s “Achieving the Dream” Community Colleges.](http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf)** University of Michigan. Retrieved from http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf
+3. **Bahr, P. R. [A Preliminary Examination of Remedial Course-Taking Patterns in Michigan’s “Achieving the Dream” Community Colleges](http://www.mcca.org/uploads/fckeditor/file/2%20-%20Peter%20Bahr%20-%20University%20of%20Michigan.pdf). University of Michigan.**
 
    The “OMG!” described this PowerPoint presentation is the degree to which
    community college students struggle in remedial math courses. I believe that
    this data underscores our need to improve K–12 and community college
    curriculums.
 
-4. Superannuation. (2014, January 15). [How Much Does It Cost To Make A Big Video Game?](https://kotaku.com/how-much-does-it-cost-to-make-a-big-video-game-1501413649) Kotaku.com \[Web blog post\] Retrieved from https://kotaku.com/how-much-does-it-cost-to-make-a-big-video-game-1501413649
+4. **Superannuation. (2014, January 15). [How Much Does It Cost To Make A Big Video Game?](https://kotaku.com/how-much-does-it-cost-to-make-a-big-video-game-1501413649) Kotaku.com \[Web blog post\]**
 
    This article takes a historical look at the costs to develop many of the most
    popular video games that have hit the market since Frogger was introduced
@@ -50,7 +50,7 @@ degree to which students across the nation need to improve their math skills.
    fields.
 
 
-5. Wan, T. (2015, April 24). [Scholastic to Sell (Most) Education Technology Business to Mifflin Harcourt for \$575 Million](https://www.edsurge.com/news/2015-04-24-scholastic-agrees-to-sell-some-education-technology-business-to-houghton-mifflin-harcourt-for-575-million). EdSurge News. Retrieved from https://www.edsurge.com/news/2015-04-24-scholastic-agrees-to-sell-some-education-technology-business-to-houghton-mifflin-harcourt-for-575-million
+5. **Wan, T. (2015, April 24). [Scholastic to Sell (Most) Education Technology Business to Mifflin Harcourt for \$575 Million](https://www.edsurge.com/news/2015-04-24-scholastic-agrees-to-sell-some-education-technology-business-to-houghton-mifflin-harcourt-for-575-million). EdSurge News.**
 
    This article speaks to the profitably of the Ed Tech market.
 
@@ -67,13 +67,13 @@ degree to which students across the nation need to improve their math skills.
    math instruction. I’m attaching another article (\#6) that talks about ways
    to improve that next generation LMS systems.
 
-6. The N<sup>2</sup>GDLE Vision: The “Next” Next Generation Digital Learning Environment
+6. **The N<sup>2</sup>GDLE Vision: The “Next” Next Generation Digital Learning Environment**
 
    Authors: by **[Phillip Long](https://members.educause.edu/phillip-d-long)** and **[Jonathan Mott](https://members.educause.edu/jonathan-d-mott)**
    Published: Monday, July 3, 2017. © 2017 Phillip D. Long and Jon Mott.
    The text of this article is licensed under the **[Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)**
 
-   http://er.educause.edu/\~/media/files/articles/2017/7/erm17412.pdf
+   <http://er.educause.edu/\~/media/files/articles/2017/7/erm17412.pdf>
 
    This article outlines criticisms of many of the Learning Management Systems
    currently on the market and also outlines the elements needed in the “Next”

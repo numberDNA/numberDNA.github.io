@@ -24,7 +24,7 @@ knowledge.
 Number DNA is designed to be self-paced and self-directed, with support both
 online or via downloadable practice sets.
 
-**Who could use Number DNA?**
+## Who could use Number DNA?
 
 **Businesses** could use Number DNA as training modules to improve the numeracy
 skills of all workers. Badging completely through all 16 web-based apps (in

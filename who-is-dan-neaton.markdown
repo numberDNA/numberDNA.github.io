@@ -37,7 +37,7 @@ grade math and Algebra 1 course for 8<sup>th</sup> grade students. I was also
 the math representative for the school at district math meetings. In 1983, I
 earned my masters in mathematics from Eastern Michigan University.
 
-After 10 years at Clague, I accepted a position a few miles south at Huron High
+After 9 years at Clague, I accepted a position a few miles south at Huron High
 School, where I taught for a further 18 years. During my tenure there, I
 designed and implemented a 2-hour math/science course that emphasized the
 contributions of African Americans to the fields of math and science. This
@@ -89,7 +89,7 @@ their weak recall of basic multiplication, division, and factoring
 skills. Students with these math skill deficits had great difficulty completing
 their associates degrees.
 
-At the University of Michigan, I lectured for the summer bridge program for 17
+At the University of Michigan, I lectured for the summer bridge program for 7
 summers, an experience that brought me into contact with incoming freshmen who
 needed to recharge their math skills before enrolling in a for-credit university
 math class.
@@ -104,6 +104,6 @@ called the Platinum Masters Hockey League (PMHL). It’s a blast!
 
 ## Contact Info
 
-Email: <neatond@gmail.com>
+Email: [neatond@gmail.com](mailto:neatond@gmail.com)
 
 ![DSC_5276 for linkedin-b57682.jpg](/uploads/DSC_5276%20for%20linkedin-b57682.jpg)

@@ -29,8 +29,12 @@ What We Need to Succeed
 **Freebie** 
 
 For donations over $25, I will send to you a printable high-resolution pdf of the Number DNA poster seen below. You can print it out at any size and it would make a great gift for any teacher at any school. 
-![DNA Helix.png]
-(/uploads/DNA%20Helix.png)
+
 ## Contact Info
 
 Email: [neatond@gmail.com](mailto:neatond@gmail.com)
+
+![DNA Helix.png]
+(/uploads/Double%20Helix%20.png)
+
+(/uploads/DNA%20Helix.png)

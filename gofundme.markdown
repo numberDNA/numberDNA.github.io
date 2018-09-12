@@ -36,5 +36,5 @@ Email: [neatond@gmail.com](mailto:neatond@gmail.com)
 
 ![/uploads/HelixDNA.jpg]
 
-(/uploads/HelixDNA%20%20.png)
+(/uploads/HelixDNA%20%20.jpg)
 

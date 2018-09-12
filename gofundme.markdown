@@ -20,6 +20,7 @@ Number DNA is a self-paced, web-based program of 16 foundational math apps that 
 Mastering all of the 16 Number DNA units means being well-prepared to take on (and succeed in) algebra, trigonometry, and beyond.
 
 ![HelixDNA.jpg](/uploads/HelixDNA.jpg)
+
 **About me**
 
 My name is Dan Neaton and I have taught mathematics for 40 years at the middle school, high school, community college, and university levels. To date, my colleagues and I have worked over 500 hours to get to the point where we need to ask for your help. 

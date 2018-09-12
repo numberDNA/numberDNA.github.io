@@ -34,7 +34,5 @@ For donations over $25, I will send to you a printable high-resolution pdf of th
 
 Email: [neatond@gmail.com](mailto:neatond@gmail.com)
 
-![HelixDNA.jpg]
-
-(/uploads/HelixDNA.jpg)
+![HelixDNA.jpg](/uploads/HelixDNA.jpg)
 

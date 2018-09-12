@@ -108,5 +108,3 @@ Email: [neatond@gmail.com](mailto:neatond@gmail.com)
 
 ![DSC_5276 for linkedin-b57682.jpg](/uploads/DSC_5276%20for%20linkedin-b57682.jpg)
 
-![DSC_5276 for linkedin-b57682.jpg]
-(/uploads/DSC_5276%20for%20linkedin-b57682.jpg)

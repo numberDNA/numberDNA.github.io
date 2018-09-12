@@ -1,5 +1,5 @@
 ---
-title: GoFundMe
+title: My GoFundMe Page
 date: 2018-09-12 11:45:00 -04:00
 ---
 
@@ -33,7 +33,7 @@ What We Need to Succeed
 
 **Freebie** 
 
-For donations over $25, I will send to you a printable high-resolution pdf of the Number DNA poster seen below. You can print it out at any size and it would make a great gift for any teacher at any school. 
+For donations over $25, I will send to you a printable high-resolution pdf of the Number DNA poster seen below. The poster is 24" by 30" and it would make a great gift for any teacher at any school. 
 
 ![NumberDNAPoster.jpg](/uploads/NumberDNAPoster.jpg)
 

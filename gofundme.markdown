@@ -9,13 +9,14 @@ date: 2018-09-12 11:45:00 -04:00
 
 [(http://<iframe class='gfm-media-widget' image='0' coinfo='0' width='100%' height='100%' frameborder='0' id='why-is-math-hard-number-DNA'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>)]
 
+(https://<iframe class='gfm-media-widget' image='0' coinfo='0' width='100%' height='100%' frameborder='0' id='why-is-math-hard-number-DNA'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>)
 
 
 **The Problem** 
 
 Millions of people are held back from achieving their dreams because of Math: children in grades 4 through 12, parents who hope to help their children, young adults at community colleges, and adults hoping to qualify for advanced job training are held back due to missing math skills. Educational institutions continue to struggle as they search for effective strategies to help people catch up after they have fallen behind in mathematics. 
 
-**Did You Know?**  In 2017, only 40 percent of fourth-graders and 33 percent of eighth-graders tested as proficient in math.  (National Assessment of Educational Progress, [https://hechingerreport.org](https://hechingerreport.org/national-test-scores-reveal-a-decade-of-educational-stagnation/ ) 
+**Did You Know?**  In 2017, only 40 percent of fourth-graders and 33 percent of eighth-graders tested as proficient in math.  (National Assessment of Educational Progress, [https://hechingerreport.org](https://hechingerreport.org/national-test-scores-reveal-a-decade-of-educational-stagnation/) 
 
 **But it doesn’t have to be this way**. 
 

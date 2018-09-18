@@ -7,9 +7,8 @@ date: 2018-09-12 11:45:00 -04:00
 
 # Why Is Math Hard?
 
-[(http://<iframe class='gfm-media-widget' image='0' coinfo='0' width='100%' height='100%' frameborder='0' id='why-is-math-hard-number-DNA'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>)]
 
-(<iframe class='gfm-media-widget' image='0' coinfo='0' width='100%' height='100%' frameborder='0' id='why-is-math-hard-number-DNA'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>)
+<iframe class='gfm-media-widget' image='0' coinfo='0' width='100%' height='100%' frameborder='0' id='why-is-math-hard-number-DNA'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
 
 **The Problem** 
 

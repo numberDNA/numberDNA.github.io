@@ -3,12 +3,11 @@ title: "Connect Here to my \n          GoFundMe Page"
 date: 2018-09-12 11:45:00 -04:00
 ---
 
+<iframe class='gfm-media-widget' image='0' coinfo='0' width='100%' height='100%' frameborder='0' id='why-is-math-hard-number-DNA'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
+
 ![FlyingStudent.jpg](/uploads/FlyingStudent.jpg)
 
 # Why Is Math Hard?
-
-
-<iframe class='gfm-media-widget' image='0' coinfo='0' width='100%' height='100%' frameborder='0' id='why-is-math-hard-number-DNA'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
 
 **The Problem** 
 

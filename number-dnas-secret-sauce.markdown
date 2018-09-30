@@ -1,5 +1,5 @@
 ---
-title: Number DNA's Secret Sauce
+title: Secret Sauce
 date: 2018-09-29 20:46:00 -04:00
 ---
 

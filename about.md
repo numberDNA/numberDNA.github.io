@@ -1,11 +1,14 @@
 ---
-title: What is numberDNA?
+title: |-
+  We Have A New Website at
+  mynumberdna.com
 permalink: "/index.html"
 Color: "#dbe116"
 layout: page
 ---
 
-**This website is in development.**
+**To redirect to our new, updated website. Click Here ->**
+[New Website](http://mynumberdna.com)
 
 I am currently seeking funding to develop a project called **Number DNA**.
 

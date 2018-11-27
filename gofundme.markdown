@@ -1,5 +1,5 @@
 ---
-title: "Connect Here to my \n          GoFundMe Page"
+title: GoFundMe Page
 date: 2018-09-12 11:45:00 -04:00
 ---
 

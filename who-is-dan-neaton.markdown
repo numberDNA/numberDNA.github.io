@@ -1,5 +1,5 @@
 ---
-title: Dan Neaton
+title: Dan
 date: 2017-04-22 14:51:00 -04:00
 Field name: 
 ---

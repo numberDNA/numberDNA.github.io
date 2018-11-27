@@ -5,7 +5,8 @@ Color: "#dbe116"
 layout: page
 ---
 
-**This website is in development.**
+**Redirect to our new updated website**
+[New Website](http://mynumberdna.com)
 
 I am currently seeking funding to develop a project called **Number DNA**.
 

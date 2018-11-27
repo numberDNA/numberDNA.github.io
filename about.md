@@ -7,7 +7,7 @@ Color: "#dbe116"
 layout: page
 ---
 
-**Redirect to our new updated website. Click Here ->### **
+**To redirect to our new, updated website. Click Here ->**
 [New Website](http://mynumberdna.com)
 
 I am currently seeking funding to develop a project called **Number DNA**.
